@@ -34,7 +34,7 @@ Kullanım amacı ortak bir temel sınıf oluşturarak bu classı extend eden cla
 
 Metodlar abstract veya somut olabilir. Metod implementasyonlarını da içerebildiği için bir class birden fazla abstract classı extend edemez bunun nedeni farklı abstract classlarda aynı metod isimleri olması durumunda extend edilen sınıfta hangi metodun kullanılacağının bilinememesidir.
 
-##İkisinin farkları
+## İkisinin farkları
 
 1. Interface: sadece metod imzalarını içerebilirken Abstract class: Hem abstract metodları hem de somut metodları içerebilir.
 
